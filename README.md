@@ -1,6 +1,6 @@
 # Stolen Vehicles Analysis
 
-This project contains SQL queries and analyses performed on a dataset related to vehicle thefts over a specific period. The analysis aims to extract insights such as the most stolen vehicle types, regions with the highest theft rates, and trends over time.
+This project contains SQL queries and analyses performed on a dataset related to vehicle thefts over a rough 6 Month Period(2021-22) . The analysis aims to extract insights such as the most stolen vehicle types, regions with the highest theft rates, and trends over time.
 
 ## Dataset Overview
 
